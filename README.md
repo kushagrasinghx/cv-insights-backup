@@ -37,6 +37,7 @@ CV Insights is an intelligent tool designed to extract, analyze, and provide mea
 ```bash
 git clone https://github.com/kushagrasinghx/cv-insights.git
 cd cv-insights
+```
 
 ### Set Up Environment
 
@@ -44,6 +45,7 @@ cd cv-insights
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+```
 
 🔍 Note: requirements.txt will be updated as more modules are added.
 
