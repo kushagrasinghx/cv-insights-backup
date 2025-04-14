@@ -49,18 +49,6 @@ pip install -r requirements.txt
 
 🔍 Note: requirements.txt will be updated as more modules are added.
 
-## 📁 Project Structure
-
-cv-insights/
-│
-├── sample_resumes/       # Sample CVs for testing
-├── parsers/              # Scripts for parsing and extracting data
-├── static/               # Frontend assets (planned)
-├── templates/            # Flask templates (planned)
-├── app.py                # Flask entrypoint (to be implemented)
-├── requirements.txt
-└── README.md
-
 ## 📌 Roadmap / To-Do
 
 - [x] Set up repo structure and planning 

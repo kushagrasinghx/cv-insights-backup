@@ -16,10 +16,10 @@ function App() {
           <div className="upload-file-subtext">
             Browse a <strong>pdf</strong> file or drop it here
           </div>
-          <div className="upload-file-text"><span role="img" aria-label="lock" style={{ marginRight: '6px' }}>🔒</span>File data is used locally and never leaves your browser</div>
+          <div className="upload-file-text"><span role="img" aria-label="lock" style={{ marginRight: '6px' }}>🔒</span>File data will always be secured</div>
           <button className="browse-file-button">Browse File</button>
         </div>
-        <div className="credits">Project by <strong>Kushagra Singh</strong> and <strong>Abhuday Sudhir</strong></div>
+        <div className="credits">Project by <strong>Kushagra Singh </strong> and <strong>Abhuday Sudhir</strong></div>
       </main>
     </>
   )
